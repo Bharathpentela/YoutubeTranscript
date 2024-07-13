@@ -1,5 +1,5 @@
 Title: QuickTube: Instant Summaries
-
+by @bharathpentela
 Description:
 QuickTube is a web application designed to provide instant summaries of YouTube videos. 
 By extracting the transcript of a given YouTube video, QuickTube leverages Google's Gemini AI 
@@ -14,6 +14,7 @@ AI-Powered Summaries:
 Uses Google Gemini to generate brief, meaningful summaries of video content.
 Thumbnail Display:
  Shows the video's thumbnail to ensure users have the right video.
+ There is a bud due to  this our code was not able to display the thumbnail but it will provide us the link of thumbnail
 User-Friendly Interface: 
 Simple and intuitive interface built with Streamlit.
 
